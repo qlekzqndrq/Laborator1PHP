@@ -96,5 +96,5 @@ Creati o pagina php care sa exemplifice:
       echo $an;
     ?>
     <!-- in afara PHP deci se foloseste din nou comenteriu HTML -->
-</body>
+  </body>
 </html>
