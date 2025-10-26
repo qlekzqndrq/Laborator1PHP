@@ -67,7 +67,7 @@ Sa se creeze o pagina php care sa permita generarea de tag-uri HTML din cod PHP.
   </body>
 </html>
 
-<!-- Exemplu 3
+<!-- Exemplu 3:
 
 Creati o pagina php care sa exemplifice:
 1. modul de utilizare a comentariilor in php si in html pe o linie respective pe 2 linii.
